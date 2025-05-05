@@ -4,5 +4,16 @@
   "artist": "Hazuki Kuroru",
   "author": "Hazuki Kuroru",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "last_updated": "1746479411",
+      "groups": {
+        "": [
+          "https://imgur.com/a/chapter-1-7OEK2qj"
+        ]
+      }
+    }
+  }
 }
